@@ -2,6 +2,10 @@
 
 Everybody's favourite brown rocket jump map is now in Diabotical too!
 
+Type: Rocket Jump
+
+Difficulty: Intermediate
+
 [Map Showcase](https://www.youtube.com/watch?v=Uyi3CX93XI0)
 
 [Original map](https://gamebanana.com/maps/130068) by Bevo

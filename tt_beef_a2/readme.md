@@ -26,7 +26,7 @@ Difficulty: Intermediate
 
 ## Known issues
 
-* Stage 17 is missing a teleport on the door. At the moment it's not possible to move/disable a teleport as far as I know. This will be updated if I ever find a workaround.
+* Stage 17 is missing a teleport on the door. At the moment it's not possible to move/disable a teleport as far as I know. This will be updated if a workaround is found.
 
 * Map must be loaded in editor mode to play. This will be updated when Diabotical's custom map support is updated, or a workaround is found.
 

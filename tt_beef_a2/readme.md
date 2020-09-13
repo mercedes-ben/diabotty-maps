@@ -14,7 +14,7 @@ Difficulty: Intermediate
 
 
 
-##Installation
+## Installation
 
 1. Download the .rbe file by clicking the "Download" button on the map page
 
@@ -24,7 +24,7 @@ Difficulty: Intermediate
 
 
 
-##Known issues
+## Known issues
 
 * Stage 17 is missing a teleport on the door. At the moment it's not possible to move/disable a teleport as far as I know. This will be updated if I ever find a workaround.
 

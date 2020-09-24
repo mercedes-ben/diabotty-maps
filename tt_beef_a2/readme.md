@@ -24,6 +24,16 @@ Difficulty: Intermediate
 
 
 
+## To play with CPMA physics
+
+1. Download the cpma.cfg file located in the root of this GitHub repository.
+
+2. Place the file in your home directory. This can be found by typing `/homedir` into the Diabotical console.
+
+3. Type `/exec cpma` into the console to load the config.
+
+
+
 ## Known issues
 
 * Stage 17 is missing a teleport on the door. At the moment it's not possible to move/disable a teleport as far as I know. This will be updated if a workaround is found.
